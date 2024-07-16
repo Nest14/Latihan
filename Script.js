@@ -1,0 +1,5 @@
+alert ("hai kamu")
+alert ("terus semangat yaa")
+alert ("sehat selalu ")
+alert ("lOP U CANTIK")
+alert ("HEHEHEHHE 👉👈 ")
