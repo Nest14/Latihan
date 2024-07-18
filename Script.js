@@ -1,4 +1,4 @@
-alert ("hai Feo")
+alert ("hai")
 alert ("terus semangat yaa")
 alert ("sehat selalu ")
 alert ("Semangat Rebahan")
